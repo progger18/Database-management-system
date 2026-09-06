@@ -1,3 +1,5 @@
+-- Код для сдачи первой части лабораторной работы 1.
+
 CREATE TABLE general_tour_agency_data (
     -- Заказ
     order_id INT NOT NULL,
